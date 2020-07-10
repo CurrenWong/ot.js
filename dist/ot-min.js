@@ -1,10 +1,10 @@
 /*
  *    /\
- *   /  \ ot 0.0.16
+ *   /  \ @curren/ot 0.0.16
  *  /    \ http://operational-transformation.github.com
  *  \    /
  *   \  / (c) 2012-2020 Maintainer : Curren Wong <curren_wong@163.com> , Creater : Tim Baumann <tim@timbaumann.info> (http://timbaumann.info)
- *    \/ ot may be freely distributed under the MIT license.
+ *    \/ @curren/ot may be freely distributed under the MIT license.
  */
 
 
